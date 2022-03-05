@@ -7,6 +7,6 @@
   <title>登録画面</title>
 </head>
 <body>
-  
+  doudesuka
 </body>
 </html>
